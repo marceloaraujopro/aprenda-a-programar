@@ -5,8 +5,5 @@ let profissao = "analista dev full stack"
 let idade = 47
 let lugar = "Canadá"
 
-console.log("Nome:",nome)
-console.log("E-mail:",email)
-console.log("Profissão:",profissao)
-console.log("Idade:",idade)
-console.log("Lugar que gostaria de conhecer:",lugar)
+console.log()
+console.log("Olá,",nome,"! Somos aqui da agência de turismo Viagem dos Sonhos. Estamos te escrevendo este email, pois acabamos de confirmar\n as compras das suas passagens aéreas para o",lugar,".Você pode confirmar pra gente alguns dados?\n A sua idade é",idade,"anos, você é",profissao,"e o seu email é",email,"?\n Ficamos no aguardo.")
