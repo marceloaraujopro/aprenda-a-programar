@@ -45,7 +45,7 @@ if (b) {
 
 let c = []
 
-// Escreva depois dos ':' se vai entrar no 'if' ou no 'else' ('if' se entrar no 'if' e 'else' se entrar no 'else'): else
+// Escreva depois dos ':' se vai entrar no 'if' ou no 'else' ('if' se entrar no 'if' e 'else' se entrar no 'else'): if
 if (c) {
     console.log("Verdade! O valor ", c, " é considerado como verdade");
 } else {
@@ -54,7 +54,7 @@ if (c) {
 
 let d = [1,2,3,4]
 
-// Escreva depois dos ':' se vai entrar no 'if' ou no 'else' ('if' se entrar no 'if' e 'else' se entrar no 'else'): else
+// Escreva depois dos ':' se vai entrar no 'if' ou no 'else' ('if' se entrar no 'if' e 'else' se entrar no 'else'): if
 if (d) {
     console.log("Verdade! O valor ", d, " é considerado como verdade");
 } else {
